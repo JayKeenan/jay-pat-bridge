@@ -2,6 +2,10 @@
 
 Newest first. If the top date is newer than your last look, open the files named.
 
+## 26_08_27 (strong 2♣)
+
+- **Strong-2-Club** — The one artificial opening. **22+** balanced or game opposite nothing. **2♦** = waiting (alert). After 2♦: **2NT** = 22–24 (you may **pass** with a bust), **3NT** = 25+, suit = natural GF. **20–21** opens **2NT**; **18–19** opens a suit and jumps **2NT**. 2♥ is hearts. Kokish later.
+
 ## 26_08_27 (weak twos)
 
 - **Weak-Twos** — 2♦/2♥/2♠ natural, ~6–10, six, not a crap suit. **2♦ is not Flannery.** A 10 with six opens **one**, not two. Raise to 3 is **to play**, not an invite. **2NT** = feature (A/K, or min/max with no feature). Vinny later.

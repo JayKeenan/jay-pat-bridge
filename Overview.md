@@ -21,6 +21,8 @@ Facing a *minimum*. Shape and controls can move you **one** step later. They do 
 | **1♣ / 1♦** | 0–5 pass; 6–10 1NT (no 4-card major) | 11–12: 2NT or inverted 2m (ALERT) | **13+.** 2/1 or 3NT |
 | **They rebid 1NT (15–17)** | **6–7 pass** | **8–9** 2♣ NMF (ALERT) | **10+** 2♦ GF or 3NT |
 
+**After 2♣:** game force. **Pass 2NT** (22–24) with a bust. Do not pass a suit rebid. **20–21** opened **2NT**, not 2♣.
+
 **Raise with a raise.** `♠AT753 ♥Q85 ♦K87 ♣65` after 1♥ is **2♥**, not 1♠. Over 1♠ the same 8-count raises 2♠ (2♥ would be GF). Same raise both ways.
 
 ---
@@ -42,6 +44,7 @@ Facing a *minimum*. Shape and controls can move you **one** step later. They do 
 | 2♥ / 2♠ after Stayman got 2♦ | “Weak, crawl” |
 | 1♥ / 1♠ – 2♣ (we have not passed) | “Game force, not necessarily clubs” |
 | 2♣ opening | “Strong, artificial” |
+| 2♦ over our 2♣ | “Waiting” |
 | 2♣ / 2♦ inverted | “Limit raise or better” |
 | 2♣ / 2♦ after 1m–1M–1NT | “Two-way: 2♣ invite, 2♦ game force” |
 | 2NT over 1M | “Jacoby — forcing raise” |
@@ -50,8 +53,8 @@ Facing a *minimum*. Shape and controls can move you **one** step later. They do 
 | 2♣ after we passed | “Drury” |
 | Splinter | “Shortness, game force” |
 
-Do **not** alert 1♣, **2♦ / 2♥ 2/1** (five-card GF, on the card), or weak twos (including 2♦). **Do** alert 1M–2♣.
+Do **not** alert 1♣, **2♦ / 2♥ 2/1** (five-card GF, on the card), or weak twos (including 2♦). **Do** alert 1M–2♣, the **2♣** opening, and **2♦** waiting.
 
 ---
 
-More detail: [Notrump](Notrump.md) · [Majors](Majors.md) · [Minors](Minors.md) · [Weak-Twos](Weak-Twos.md). War is not written yet.
+More detail: [Notrump](Notrump.md) · [Majors](Majors.md) · [Minors](Minors.md) · [Weak-Twos](Weak-Twos.md) · [Strong-2-Club](Strong-2-Club.md). War is not written yet.
