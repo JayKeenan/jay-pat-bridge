@@ -1,4 +1,6 @@
-# 2. <span style="color:#1565C0">1NT opening — announce 11 to 14</span>
+# A good 11 to 14
+
+<span style="color:#1565C0;font-weight:700">1NT opening — announce: good eleven to fourteen</span>
 
 **Law:** SYSTEM.md §2 (1NT) and §3  
 **Status:** Version 00 · 26_08_27  
@@ -87,6 +89,8 @@ Four-suit transfers, except **2♠ is not a simple club transfer**.
 Major transfers: opener **completes**. No super-accepts in the majors. Garbage: transfer and pass.
 
 Minor transfers show **six or more**. A five-card minor does not transfer.
+
+We'll add 3-level responses when you're ready.
 
 ---
 

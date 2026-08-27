@@ -2,6 +2,10 @@
 
 Newest first. If the top date is newer than your last look, open the files named.
 
+## 26_08_27 (later)
+
+- **One-notrump** — Title line: “A good 11 to 14.” 3-level responses deferred: “We’ll add 3-level responses when you’re ready.”
+
 ## 26_08_27
 
 - **Overview** — live card: how-high tables, raise with a raise, alerts. (Was “START HERE.”)
