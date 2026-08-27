@@ -14,6 +14,8 @@ Written the way Gavin’s Master Series lessons work: one topic, why the call ex
 
 **Pat:** open [Updates](Updates.md). If the top date is new, read the files it names. The card itself is [Overview](Overview.md).
 
+Files are named by subject (`Notrump`, `Majors`, `Minors`, …), not `02-`. If a chapter grows: `Majors-Raises`, `Majors-TwoOverOne`.
+
 Open in Typora or Obsidian if you want the colors. Print/PDF later if Pat wants paper.
 
 ## Google Docs (Pat’s iPad) vs this folder
