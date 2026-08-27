@@ -54,4 +54,4 @@ Do **not** alert 1♣, **2♦ / 2♥ 2/1** (five-card GF, on the card), or weak 
 
 ---
 
-More detail: [Notrump](Notrump.md) · [Majors](Majors.md) · [Minors](Minors.md). War is not written yet.
+More detail: [Notrump](Notrump.md) · [Majors](Majors.md) · [Minors](Minors.md) · [Weak-Twos](Weak-Twos.md). War is not written yet.
