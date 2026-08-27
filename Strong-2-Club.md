@@ -65,7 +65,7 @@ Do **not** bid **2♥** as a bust. Do **not** name a suit on the first round. Im
 | **3NT** | **25+** balanced |
 | Suit (**2♥ / 2♠ / 3♣ / 3♦**) | Natural, **forcing to game** |
 
-After **2NT**, play it like the 2NT opening: **3♣** Stayman, **3♦ / 3♥** transfers (announce), **3NT** to play. The tree itself is in [2-Notrump](2-Notrump.md) when that page is written. You may **pass 2NT** with a bust.
+After **2NT**, play it like the 2NT opening: **3♣** Stayman, **3♦ / 3♥** transfers (announce), **3NT** to play. Tree in [2-Notrump](2-Notrump.md). You may **pass 2NT** with a bust.
 
 After a **suit:** raise with a raise. **2NT** = still waiting, no fit. A new suit is **5+**.
 

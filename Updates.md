@@ -2,6 +2,10 @@
 
 Newest first. If the top date is newer than your last look, open the files named.
 
+## 26_08_27 (2NT)
+
+- **2-Notrump** — **20–21.** Stayman (**3♣**) and transfers (**3♦ / 3♥**, announce). **3NT** to play. **0–3 pass**, **4+ game**. No invite. Puppet / Texas later. **3♠ unused.** Same tree after 2♣ – 2♦ – 2NT.
+
 ## 26_08_27 (strong 2♣)
 
 - **Strong-2-Club** — The one artificial opening. **22+** balanced or game opposite nothing. **2♦** = waiting (alert). After 2♦: **2NT** = 22–24 (you may **pass** with a bust), **3NT** = 25+, suit = natural GF. **20–21** opens **2NT**; **18–19** opens a suit and jumps **2NT**. 2♥ is hearts. Kokish later.
