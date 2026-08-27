@@ -2,6 +2,10 @@
 
 Newest first. If the top date is newer than your last look, open the files named.
 
+## 26_08_27 (filenames, cleanup)
+
+- Removed the old numbered stubs (`00-` … `10-`). Everything they pointed at already lives in **Overview**, **Updates**, **Philosophy**, **Notrump**, **Majors**, **Minors**, **Weak-Twos**, **Strong-2-Club**, **2-Notrump**, **Preempts**.
+
 ## 26_08_27 (2NT)
 
 - **2-Notrump** — **20–21.** Stayman (**3♣**) and transfers (**3♦ / 3♥**, announce). **3NT** to play. **0–3 pass**, **4+ game**. No invite. Puppet / Texas later. **3♠ unused.** Same tree after 2♣ – 2♦ – 2NT.

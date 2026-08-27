@@ -133,4 +133,4 @@ Jay opens **1♥**.
 
 - **Controls:** A=2, K=1. Fewer than 3: pass. 3, scattered, no intermediates: **pass**.
 - **Reverse = 18+.**
-- **Blue** = announce. **Red** = alert. [`STYLE.md`](STYLE.md) · [chapter 10](10-alerts-for-pat.md).
+- **Blue** = announce. **Red** = alert. [`STYLE.md`](STYLE.md) · lists on [Overview](Overview.md).
