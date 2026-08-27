@@ -2,6 +2,10 @@
 
 Newest first. If the top date is newer than your last look, open the files named.
 
+## 26_08_27 (weak twos)
+
+- **Weak-Twos** — 2♦/2♥/2♠ natural, ~6–10, six, not a crap suit. **2♦ is not Flannery.** A 10 with six opens **one**, not two. Raise to 3 is **to play**, not an invite. **2NT** = feature (A/K, or min/max with no feature). Vinny later.
+
 ## 26_08_27 (minors)
 
 - **Minors** — After 1♣/1♦, a **1NT rebid** and a **raise of responder’s major** are **15–17** (or shapely). Not a 12-count balanced — those opened 1NT. Opposite that 1NT: 6–7 pass, 8–9 invite, 10+ force.
