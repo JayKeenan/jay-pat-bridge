@@ -54,4 +54,4 @@ Do **not** alert 1♣, **2♦ / 2♥ 2/1** (five-card GF, on the card), or weak 
 
 ---
 
-More detail: [One notrump](02-one-notrump.md). War is not written yet.
+More detail: [One notrump](02-one-notrump.md) · [Majors](Majors.md). War is not written yet.

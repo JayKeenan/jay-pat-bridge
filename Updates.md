@@ -2,6 +2,10 @@
 
 Newest first. If the top date is newer than your last look, open the files named.
 
+## 26_08_27 (majors file)
+
+- **Majors** (`Majors.md`) — one file: how high, the full first-response menu, raise with a raise, 1NT SF, 2/1 (2♦/2♥ = 5; 2♣ catch-all; skip 4♠ over 1♥; reverse/3-level not extras). Old 05 / 06 / 07 pages point here.
+
 ## 26_08_27 (2/1)
 
 - **2/1:** 2♦ and 2♥ promise **5**. **2♣** (alert) is the GF catch-all when needed. Over 1♥, **bypass four spades** to GF; 1♠ then a force shows **five** spades. Opener’s rebid of the major = **6**. **Reverses and 3-level bids in 2/1 do not show extras.**
