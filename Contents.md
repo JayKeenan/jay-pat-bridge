@@ -16,5 +16,6 @@ Law: `/mnt/d/Bridge/SYSTEM.md`
 | [Strong-2-Club](Strong-2-Club.md) | 2♣ artificial |
 | [2-Notrump](2-Notrump.md) | 2NT opening 20–21 |
 | [Preempts](Preempts.md) | 3x |
+| [Doubles](Doubles.md) | Ideas — not law |
 
-Later, if a file gets huge: `Majors-Raises`, `Majors-TwoOverOne`, `Majors-Slam`, `Majors-War`. **Others** (Namyats, etc.) only if we add them. War is not written.
+Later, if a file gets huge: `Majors-Raises`, `Majors-TwoOverOne`, `Majors-Slam`, `Majors-War`. **Others** (Namyats, etc.) only if we add them. War is not locked. Ideas start at [Doubles](Doubles.md).

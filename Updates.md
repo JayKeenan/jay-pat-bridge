@@ -2,6 +2,10 @@
 
 Newest first. If the top date is newer than your last look, open the files named.
 
+## 26_08_27 (doubles)
+
+- **Doubles** — ideas, **not law.** Takeout / negative / responsive are the same job (other suits) said in different seats. Support is the odd one (three of partner’s major). Penalty is “their suit.” Responsive is **not** a stack. Ceilings and support on/off later.
+
 ## 26_08_27 (NT rebids)
 
 - After opener’s **1NT rebid (15–17):** **`1♥ – 1♠ – 1NT` is the same 2-way NMF as `1m – 1M – 1NT`.** 6–7 pass; 8–9 **2♣**; 10+ **2♦** or 3NT. After 1♥–1♠–1NT, **2♥** = to play.
