@@ -2,6 +2,10 @@
 
 Newest first. If the top date is newer than your last look, open the files named.
 
+## 26_08_27 (2/1)
+
+- **2/1:** 2♦ and 2♥ promise **5**. **2♣** (alert) is the GF catch-all when needed. Over 1♥, **bypass four spades** to GF; 1♠ then a force shows **five** spades. Opener’s rebid of the major = **6**. **Reverses and 3-level bids in 2/1 do not show extras.**
+
 ## 26_08_27 (later)
 
 - **One-notrump** — Title line: “A good 11 to 14.” 3-level responses deferred: “We’ll add 3-level responses when you’re ready.”

@@ -13,7 +13,7 @@ Stop in **2M** or bid **game**. Natural game tries. 1M is unlimited, so 2M is **
 | **Constructive** | **8–10** dummy, 3 trumps | **2M**. Raise with a raise. Not 1♠. Not 4M. |
 | **Mixed** | **8–10**, 4 trumps | **3M** |
 | **Invite** | **11–12** | <span style="color:#C62828;font-weight:700">3♦</span> with 4 trumps; 1NT then 3M with 3. |
-| **Force / game** | **13+** | 2/1, <span style="color:#C62828;font-weight:700">2NT</span> Jacoby (4+), splinter. |
+| **Force / game** | **13+** | 2/1 (**2♦/2♥ = 5**; **2♣** catch-all, alert), Jacoby (4+), splinter. Bypass 4♠ over 1♥. |
 
 | Call | Meaning | Table |
 |------|---------|--------|

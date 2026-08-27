@@ -1,20 +1,28 @@
 # 7. Two-over-one game force
 
 **Law:** SYSTEM.md §6  
-**Status:** Stub
+**Status:** Draft 26_08_27
 
-`1♥ – 2♣ / 2♦` and `1♠ – 2♣ / 2♦ / 2♥` are **game forcing**. After 2/1, a **rebid of opener’s major promises six**.
+`2♦` and `2♥` as 2/1 **promise five**. When you need a GF and do not have a five-card 2/1 suit, **2♣** (alert) is the catch-all.
 
-Not alertable as a private toy — it is on the card as 2/1 GF.
+| Auction | Meaning |
+|---------|---------|
+| 1♠ – 2♥ | GF, **5+** hearts |
+| 1♥ – 2♦ / 1♠ – 2♦ | GF, **5+** diamonds |
+| 1♥ – 2♣ / 1♠ – 2♣ | GF, **alert** — clubs, **or** whatever you need to force when you have no five-card red 2/1 |
 
-## Serious 3NT (v1)
+**Over 1♥, do not bid 1♠ with four spades and a GF.** Skip 1♠; start 2♣ or 2♦. **1♥ – 1♠** then a later force shows **five** spades.
 
-Once a major is agreed after 2/1, **3NT** = serious slam try; a cue is extra values without that serious hand. Skip if you do not remember it. No tourism.
+After 2/1:
 
-## To write
+| Opener | Meaning |
+|--------|---------|
+| Rebid of the major | **6+** |
+| Reverse or 3-level | **Shape, not extras.** A minimum may do it. |
+| 2NT | Not six of the major |
 
-- Opener’s 2M = six.
-- 2NT waiting / balanced.
-- Raising responder vs waiting.
-- One scramble-to-3NT deal (Gavin’s “no immediate fit”).
-- One serious 3NT vs cue deal.
+Reverse = 18+ still applies **outside** 2/1.
+
+**Tell the opponents:** Alert 1M–2♣ — “game force, not necessarily clubs.” 2♦ / 2♥ are 2/1 GF, five-card, on the card.
+
+We'll write the rest of the 2/1 tree when you're ready.

@@ -24,6 +24,7 @@ Unmarked = play on.
 | <span style="color:#C62828;font-weight:700">2♠</span> over our 1NT | “Clubs or invite” |
 | 2♥ / 2♠ after Stayman got 2♦ | “Weak, crawl” |
 | <span style="color:#C62828;font-weight:700">2NT</span> over our 1NT | “Transfer to diamonds” |
+| 1♥ / 1♠ then <span style="color:#C62828;font-weight:700">2♣</span> (unpassed) | “Game force, not necessarily clubs” |
 | <span style="color:#C62828;font-weight:700">2♣</span> opening | “Strong, artificial” |
 | <span style="color:#C62828;font-weight:700">2♣ / 2♦</span> inverted | “Limit raise or better in the minor” |
 | <span style="color:#C62828;font-weight:700">2♣ / 2♦</span> after 1m–1M–1NT | “Two-way new minor: 2♣ invite, 2♦ game force” |
@@ -36,7 +37,7 @@ Unmarked = play on.
 ## Do not alert
 
 - 1♣ (three-plus clubs).
-- 2/1 new suits (on the card as GF).
+- 2♦ / 2♥ as 2/1 (five-card GF, on the card). **2♣ over 1M is an alert.**
 - Weak twos, including 2♦.
 - Natural game tries, natural reverses.
 
