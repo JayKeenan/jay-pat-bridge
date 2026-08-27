@@ -1,6 +1,6 @@
 # 1♣ and 1♦
 
-**Law:** SYSTEM.md §2 (1♣ / 1♦), §4, §5  
+**Law:** SYSTEM.md §2 (1♣ / 1♦), §4, §5, §5a  
 **Status:** Version 00 · 26_08_27
 
 **3–3 minors → 1♣. 4–4 minors → 1♦.** Neither is forcing. Partner may pass 1♣. Unlimited. 1♣ is **not** a strong club and **not** alertable.
@@ -25,13 +25,24 @@ The **first** bid assumes opener might be a min. After **1NT** or a **raise of y
 
 | | HCP | Bid |
 |--|-----|-----|
-| **Quit** | **6–7** | **Pass.** |
+| **Quit** | **6–7** | **Pass**, or **2M** to play. |
 | **Invite** | **8–9** | <span style="color:#C62828;font-weight:700">2♣</span> (2-way NMF). |
 | **Force / game** | **10+** | <span style="color:#C62828;font-weight:700">2♦</span> GF, or 3NT. |
 
 A courtesy 1♥ on 6 does **not** become 3NT when they rebid 1NT. 6+15 is a partscore.
 
-**After 1m – 1M – 2M (raise):** same idea — opener has four-card support and is **not** a 12-count balanced. Bid as if facing 15–17 or a shapely opening.
+**After 1m – 1M – 2NT (18–19):**
+
+| | HCP | Bid |
+|--|-----|-----|
+| **Quit** | **6** | **Pass**, or **3M** to play. |
+| **Game** | **7+** | **3NT** or **4M**. |
+
+No invite. No transfers. A courtesy 6 does not bid 3NT.
+
+**After 1m – 1NT – 2NT (18–19):** no major to run to. **6 pass. 7+ 3NT.**
+
+**After 1m – 1M – 2M (raise):** same idea — opener has four-card support and is **not** a 12-count balanced. Bid as if facing 15–17 or a shapely opening. Same quit-or-game idea if they jump 2NT.
 
 ---
 
@@ -78,7 +89,7 @@ North `♠ Kxxx  ♥ Qxxx  ♦ xx  ♣ xxx` — 7.
 | Pass | 1♥ | Pass | 1NT |
 | Pass | Pass | Pass | |
 
-**Why:** South is too good for opening 1NT. North’s 1♥ was courtesy. Opposite 15–17 a 7 **passes**. 3NT is the leak.
+**Why:** South is too good for opening 1NT. North’s 1♥ was courtesy. Opposite 15–17 a 7 **passes**. 3NT is the leak. Same pass if the auction had been `1♥ – 1♠ – 1NT`.
 
 **Tell the opponents:** If they ask about the 1NT *rebid*: “fifteen to seventeen, balanced.” Do not announce it.
 
@@ -96,6 +107,34 @@ North `♠ Axxx  ♥ xxx  ♦ Qxx  ♣ xxx` — 7.
 **Why:** 12–14 balanced with four spades would have opened **1NT**. This raise is 15–17 (or shape). North still has a 7 — stay in 2♠ unless the dummy is huge.
 
 A 13-count **5♦4♠** also raises 2♠ — shapely min, not 15–17 HCP, but not a flat 12 either. Partner does not bid as if facing a weak-NT 12-count raise.
+
+### Example — jump 2NT, 6 passes
+
+South `♠ AKx  ♥ AQx  ♦ KJxx  ♣ Kxx` — **19**. Opens 1♦, jumps **2NT**.  
+North `♠ Qxxx  ♥ xxx  ♦ xx  ♣ xxxx` — **6**, four spades.
+
+| West | North | East | South |
+|------|-------|------|-------|
+| | | | 1♦ |
+| Pass | 1♠ | Pass | 2NT |
+| Pass | Pass | Pass | |
+
+**Why:** 19+6 = 25 on a good day, 24 on this one. Quit. 3NT is the leak. With five spades and a 6, North would bid **3♠** to play, not 4♠.
+
+**Tell the opponents:** Nothing. 2NT is 18–19 if they ask.
+
+### Example — jump 2NT, 8 bids game
+
+Same South (19). North `♠ Qxxx  ♥ Kxx  ♦ xx  ♣ xxxx` — **8**.
+
+| West | North | East | South |
+|------|-------|------|-------|
+| | | | 1♦ |
+| Pass | 1♠ | Pass | 2NT |
+| Pass | 3NT | Pass | Pass |
+| Pass | | | |
+
+**Why:** 8 opposite 18–19 is game. Four spades, no fifth — 3NT, not 4♠. With five or six spades, 4♠.
 
 ---
 
@@ -115,17 +154,19 @@ A 13-count **5♦4♠** also raises 2♠ — shapely min, not 15–17 HCP, but n
 
 Gavin wrote this opposite a *weak* 1NT rebid. We play it opposite the **strong** one.
 
-After `1m – 1M – 1NT`:
+After `1m – 1M – 1NT` — **and** after `1♥ – 1♠ – 1NT` (same card; that auction lives in [Majors](Majors.md)):
 
 | Call | Meaning | Table |
 |------|---------|--------|
+| Pass | 6–7 | — |
 | <span style="color:#C62828;font-weight:700">2♣</span> | Puppet to 2♦; then invite or weak diamonds | **Alert** |
 | <span style="color:#C62828;font-weight:700">2♦</span> | Artificial GF checkback | **Alert** |
-| 2M | To play | — |
+| 2M | To play (5+ of your major) | — |
 | 2NT | Natural invite | — |
 | 3M | Invite, 6+M | — |
+| 3NT | To play (10+) | — |
 
-**Kantar is off.**
+**Kantar is off.** The rest of the 2♣ puppet and the 2♦ GF tree: later.
 
 ---
 

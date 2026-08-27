@@ -19,8 +19,9 @@ Facing a *minimum*. Shape and controls can move you **one** step later. They do 
 | **1NT (11–14)** | **0–10.** Pass, transfer-and-pass, or **crawl** (4M). **10 ≠ 2♠.** | **11–12 no 4M → 2♠ only** (ALERT). 4M → Stayman then invite | **13+.** 3NT or transfer/Stayman then game |
 | **1♥ / 1♠** | **0–7.** Pass or 1NT then 2M | **11–12.** 3♦ = 4-card limit (ALERT); 1NT then 3M with three | **13+.** 2/1 / Jacoby. **8–10 = 2M**, not 4M, not 1♠ |
 | **1♣ / 1♦** | 0–5 pass; 6–10 1NT (no 4-card major) | 11–12: 2NT or inverted 2m (ALERT) | **13+.** 2/1 or 3NT |
-| **They rebid 1NT (15–17)** | **6–7 pass** | **8–9** 2♣ NMF (ALERT) | **10+** 2♦ GF or 3NT |
-| **2NT (20–21)** | **0–3.** Pass, or transfer-and-pass (5+M) | — | **4+.** 3NT or Stayman / transfer then game |
+| **They rebid 1NT (15–17)** — `1m–1M` **or** `1♥–1♠` | **6–7 pass** (or 2M / 2♥ to play) | **8–9** 2♣ NMF (ALERT) | **10+** 2♦ GF or 3NT |
+| **They rebid 2NT (18–19 / 18–20)** | Min **pass**, or **3M** to play | — | **3NT** or **4M**. No transfers |
+| **2NT opening (20–21)** | **0–3.** Pass, or transfer-and-pass (5+M) | — | **4+.** 3NT or Stayman / transfer then game |
 
 **After 2♣:** game force. **Pass 2NT** (22–24) with a bust. Do not pass a suit rebid. **20–21** opened **2NT**, not 2♣.
 
@@ -48,7 +49,7 @@ Facing a *minimum*. Shape and controls can move you **one** step later. They do 
 | 2♣ opening | “Strong, artificial” |
 | 2♦ over our 2♣ | “Waiting” |
 | 2♣ / 2♦ inverted | “Limit raise or better” |
-| 2♣ / 2♦ after 1m–1M–1NT | “Two-way: 2♣ invite, 2♦ game force” |
+| 2♣ / 2♦ after our 15–17 1NT rebid (`1m–1M` or `1♥–1♠`) | “Two-way: 2♣ invite, 2♦ game force” |
 | 2NT over 1M | “Jacoby — forcing raise” |
 | 3♦ over 1M | “Four-card limit raise” |
 | 3♥ over 1♠ | “Invitational, long hearts” |

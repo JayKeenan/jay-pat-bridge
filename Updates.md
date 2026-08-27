@@ -2,6 +2,11 @@
 
 Newest first. If the top date is newer than your last look, open the files named.
 
+## 26_08_27 (NT rebids)
+
+- After opener’s **1NT rebid (15–17):** **`1♥ – 1♠ – 1NT` is the same 2-way NMF as `1m – 1M – 1NT`.** 6–7 pass; 8–9 **2♣**; 10+ **2♦** or 3NT. After 1♥–1♠–1NT, **2♥** = to play.
+- After opener’s **2NT rebid (18–19 / 18–20):** no transfers. **Pass** or **3M** to play, else **3NT / 4M**. 6 quits opposite 18–19; 6–7 quit after `1M – 1NT – 2NT`.
+
 ## 26_08_27 (filenames, cleanup)
 
 - Removed the old numbered stubs (`00-` … `10-`). Everything they pointed at already lives in **Overview**, **Updates**, **Philosophy**, **Notrump**, **Majors**, **Minors**, **Weak-Twos**, **Strong-2-Club**, **2-Notrump**, **Preempts**.

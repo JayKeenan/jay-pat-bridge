@@ -42,8 +42,9 @@ Facing a **minimum**. These are HCP (or dummy points for a raise). We will spell
 | **1NT (11–14)** | **0–10.** Pass, transfer-and-pass, or crawl (4M). **A 10 does not bid 2♠.** | **11–12 no 4M → 2♠ only.** 4M → Stayman then invite. | **13+.** 3NT or game after Stayman/transfer. |
 | **1♥ / 1♠** | **0–7.** Pass or 1NT then 2M. | **11–12.** 3♦ (4 trumps) or 1NT then 3M (3 trumps). | **13+.** 2/1 / Jacoby / splinter. **8–10 = 2M**, not 4M. |
 | **1♣ / 1♦** | **0–5** pass; **6–10** 1NT (no 4M). | **11–12.** 2NT or inverted. | **13+.** 2/1 or 3NT. |
-| **1m – 1M – 1NT (15–17)** | **6–7 pass.** | **8–9.** 2-way NMF invite. | **10+.** 2♦ GF or 3NT. |
-| **2NT (20–21)** | **0–3** pass, or transfer-and-pass. | — | **4+.** 3NT or Stayman / transfer then game. |
+| **1NT rebid 15–17** (`1m–1M` or `1♥–1♠`) | **6–7 pass.** | **8–9.** 2-way NMF invite. | **10+.** 2♦ GF or 3NT. |
+| **2NT rebid (18–19 / 18–20)** | Min **pass**, or **3M** to play. | — | **3NT** or **4M**. No transfers. |
+| **2NT opening (20–21)** | **0–3** pass, or transfer-and-pass. | — | **4+.** 3NT or Stayman / transfer then game. |
 
 Opposite 1NT: 10+11=21, 10+14=24 — not invite. 11+14=25 — that is why **11–12** asks.
 

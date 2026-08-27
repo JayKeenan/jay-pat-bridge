@@ -1,6 +1,6 @@
 # 1♥ and 1♠
 
-**Law:** SYSTEM.md §2 (1M) and §6  
+**Law:** SYSTEM.md §2 (1M), §5, §5a, §6, §7  
 **Status:** Version 00 · 26_08_27
 
 Five-card majors, unlimited. A 12–13 balanced usually opened **1NT**. Reverse **outside** 2/1 = **18+**.
@@ -85,7 +85,7 @@ Jay opens **1♥**. **2♥** is right. **1♠** is the rainbow: after 2♦, 2♥
 
 **15–17 5332 does not bid 2NT.** 2NT is **18–20**. That hand rebids **2♣ or 2♦**, often a **three-card** minor, and catches up later.
 
-**Hearts only:** `1♥ – 1♠ – 1NT` = **15–17**, 5/6 hearts. After 1♠ there is no such step.
+**Hearts only:** `1♥ – 1♠ – 1NT` = **15–17**, 5/6 hearts. After 1♠ there is no such step. Responder’s next call is **After `1♥ – 1♠ – 1NT`** below (same 2-way NMF as the minors).
 
 ### Example — three-card minor, extras later
 
@@ -105,6 +105,75 @@ Jay opens **1♥**. **2♥** is right. **1♠** is the rainbow: after 2♦, 2♥
 **Why:** South is 16, 5332, too good to pass 1NT, too small for 2NT (18–20). 2♦ is three diamonds.
 
 **Tell the opponents:** Announce 1NT “semi-forcing.” 2♦ is natural (may be three).
+
+### After they rebid 2NT (18–20)
+
+No transfers. Place the contract.
+
+| | HCP | Bid |
+|--|-----|-----|
+| **Quit** | **6–7** | **Pass**, or **3M** to play (preference). |
+| **Game** | **8+** | **3NT** or **4M**. |
+
+Your 1NT was 6–11 without a raise. Opposite 18–20 a 7 still passes. An 8 does not.
+
+Same idea after `1♥ – 1♠ – 2NT` (**18–19** jump): a **6** passes (or 3♠ to play); **7+** bids game. That 2NT is a jump, not the 15–17 1NT.
+
+### Example — 1♠ – 1NT – 2NT, 7 passes
+
+South `♠ AKxxx  ♥ AQx  ♦ KJx  ♣ Kx` — **19**.  
+North `♠ xx  ♥ Kxx  ♦ xxx  ♣ Qxxxx` — **7**.
+
+| West | North | East | South |
+|------|-------|------|-------|
+| | | | 1♠ |
+| Pass | <span style="color:#1565C0;font-weight:700">1NT</span> | Pass | 2NT |
+| Pass | Pass | Pass | |
+
+**Why:** 7 opposite 18–20 is the quit bin. 3NT is the leak. With two or three spades and a wish to play the major, **3♠** — still to play, not an invite.
+
+**Tell the opponents:** Announce 1NT “semi-forcing.” 2NT is 18–20 if they ask.
+
+---
+
+## After `1♥ – 1♠ – 1NT` (15–17)
+
+**Same 2-way NMF as after `1m – 1M – 1NT`.** Detail of the gadget is in [Minors](Minors.md). This is the second call that was missing.
+
+| | HCP | Bid |
+|--|-----|-----|
+| **Quit** | **6–7** | **Pass**, or **2♥** / **2♠** to play. |
+| **Invite** | **8–9** | <span style="color:#C62828;font-weight:700">2♣</span> |
+| **Force / game** | **10+** | <span style="color:#C62828;font-weight:700">2♦</span> or 3NT |
+
+| Call | Meaning |
+|------|---------|
+| **2♥** | To play (preference) |
+| **2♠** | To play (5+ spades) |
+| <span style="color:#C62828;font-weight:700">2♣</span> | Invite puppet (same as the minors) |
+| <span style="color:#C62828;font-weight:700">2♦</span> | GF checkback (same) |
+| 2NT | Natural invite |
+| 3♠ | Invite, 6+ spades |
+| 3NT | To play |
+
+**2♣ / 2♦ are the gadget, not a suit.** A 7 does not bid 3NT.
+
+### Example — 7 passes 1NT
+
+**Dealer South · neither vul**
+
+South `♠ AJx  ♥ KQxxx  ♦ Axx  ♣ Kx` — 16, five hearts.  
+North `♠ Kxxx  ♥ xx  ♦ Qxx  ♣ xxxx` — **7**, four spades.
+
+| West | North | East | South |
+|------|-------|------|-------|
+| | | | 1♥ |
+| Pass | 1♠ | Pass | 1NT |
+| Pass | Pass | Pass | |
+
+**Why:** Same as `1♦ – 1♥ – 1NT`. Courtesy 1♠, opener names 15–17, North quits. 2♠ would be five spades to play. 3NT is the leak.
+
+**Tell the opponents:** 1NT rebid is 15–17 if they ask (do not announce). If North had bid 2♣ or 2♦: alert — “two-way: 2♣ invite, 2♦ game force.”
 
 ---
 
