@@ -42,7 +42,7 @@ Facing a **minimum**. These are HCP (or dummy points for a raise). We will spell
 | **1NT (11–14)** | **0–10.** Pass, transfer-and-pass, or crawl (4M). **A 10 does not bid 2♠.** | **11–12 no 4M → 2♠ only.** 4M → Stayman then invite. | **13+.** 3NT or game after Stayman/transfer. |
 | **1♥ / 1♠** | **0–7.** Pass or 1NT then 2M. | **11–12.** 3♦ (4 trumps) or 1NT then 3M (3 trumps). | **13+.** 2/1 / Jacoby / splinter. **8–10 = 2M**, not 4M. |
 | **1♣ / 1♦** | **0–5** pass; **6–10** 1NT (no 4M). | **11–12.** 2NT or inverted. | **13+.** 2/1 or 3NT. |
-| **1m – 1M – 1NT (15–18)** | **6–7 pass.** | **8–9.** 2-way NMF invite. | **10+.** 2♦ GF or 3NT. |
+| **1m – 1M – 1NT (15–17)** | **6–7 pass.** | **8–9.** 2-way NMF invite. | **10+.** 2♦ GF or 3NT. |
 
 Opposite 1NT: 10+11=21, 10+14=24 — not invite. 11+14=25 — that is why **11–12** asks.
 
@@ -91,7 +91,7 @@ North `♠ Qxxx  ♥ Jxxx  ♦ xx  ♣ xxx` — 4 HCP, courtesy 1♥.
 | Pass | 1♥ | Pass | 1NT |
 | Pass | Pass | Pass | |
 
-**Why:** First bid was quit/courtesy. Opener’s 1NT is **15–18**. 6–7 **passes**. 3NT is the leak.
+**Why:** First bid was quit/courtesy. Opener’s 1NT is **15–17**. 6–7 **passes**. 3NT is the leak.
 
 ---
 

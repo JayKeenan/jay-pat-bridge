@@ -83,9 +83,9 @@ Jay opens **1♥**. **2♥** is right. **1♠** is the rainbow: after 2♦, 2♥
 
 **Announce** “semi-forcing.” Opener passes only with a hand that would **not** accept a limit raise.
 
-**15 to a bad 18 5332 does not bid 2NT.** 2NT is **18–20**. That hand rebids **2♣ or 2♦**, often a **three-card** minor, and catches up later.
+**15–17 5332 does not bid 2NT.** 2NT is **18–20**. That hand rebids **2♣ or 2♦**, often a **three-card** minor, and catches up later.
 
-**Hearts only:** `1♥ – 1♠ – 1NT` = 15 to a bad 18, 5/6 hearts. After 1♠ there is no such step.
+**Hearts only:** `1♥ – 1♠ – 1NT` = **15–17**, 5/6 hearts. After 1♠ there is no such step.
 
 ### Example — three-card minor, extras later
 

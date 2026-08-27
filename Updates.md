@@ -2,6 +2,10 @@
 
 Newest first. If the top date is newer than your last look, open the files named.
 
+## 26_08_27 (minors)
+
+- **Minors** — After 1♣/1♦, a **1NT rebid** and a **raise of responder’s major** are **15–17** (or shapely). Not a 12-count balanced — those opened 1NT. Opposite that 1NT: 6–7 pass, 8–9 invite, 10+ force.
+
 ## 26_08_27 (filenames)
 
 - Subject names, no chapter numbers: **Overview**, **Updates**, **Philosophy**, **Notrump**, **Majors**, **Minors**, **Weak-Twos**, **Strong-2-Club**, **2-Notrump**, **Preempts**. Later splits like `Majors-Raises` if a file grows. Old `02-one-notrump` etc. only point here.
@@ -22,4 +26,4 @@ Newest first. If the top date is newer than your last look, open the files named
 
 - **Overview** — live card: how-high tables, raise with a raise, alerts. (Was “START HERE.”)
 - **One-notrump** (`02-one-notrump.md`) — Invite with **no** 4-card major → **2♠**, not Stayman. **Crawling** Stayman. 2NT transfer: opener **3♦** = fit **or** max **or both** (fit = 3+ diamonds or Hx, Q or better). Else **3♣**.
-- Weak NT good 11–14; 2/1 on; Flannery off; reverse = 18+; after 1♣/1♦ a 1NT rebid is 15–18 (6–7 **pass**).
+- Weak NT good 11–14; 2/1 on; Flannery off; reverse = 18+; after 1♣/1♦ a 1NT rebid (and a raise of their major) is **15–17** (6–7 **pass**).
