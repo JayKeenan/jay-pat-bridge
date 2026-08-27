@@ -4,7 +4,7 @@ Newest first. If the top date is newer than your last look, open the files named
 
 ## 26_08_27 (doubles)
 
-- **Doubles** — ideas, **not law.** Takeout / negative / responsive are the same job (other suits) said in different seats. Support is the odd one (three of partner’s major). Penalty is “their suit.” Responsive is **not** a stack. Ceilings and support on/off later.
+- **Doubles** — ideas, **not law.** Working picture is **Gavin.** **Takeout** = all unbid suits. **Negative / responsive** = the **other major** (minors only when no unbid major is left). **Support double** = three of partner’s major. **Support cue-bid** = limit+ raise (mixed 3M is already off in competition). Penalty = their suit. Ceilings later.
 
 ## 26_08_27 (NT rebids)
 
