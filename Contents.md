@@ -17,5 +17,6 @@ Law: `/mnt/d/Bridge/SYSTEM.md`
 | [2-Notrump](2-Notrump.md) | 2NT opening 20–21 |
 | [Preempts](Preempts.md) | 3x |
 | [Doubles](Doubles.md) | Ideas — not law |
+| [Cheat-Sheet](Cheat-Sheet.md) | Drury, 2-way NMF, crawling Stayman — practice |
 
 Later, if a file gets huge: `Majors-Raises`, `Majors-TwoOverOne`, `Majors-Slam`, `Majors-War`. **Others** (Namyats, etc.) only if we add them. War is not locked. Ideas start at [Doubles](Doubles.md).

@@ -2,6 +2,10 @@
 
 Newest first. If the top date is newer than your last look, open the files named.
 
+## 26_08_28 (cheat sheet)
+
+- **Cheat-Sheet** — Reverse Drury, two-way NMF, crawling Stayman on one page. Ten practice hands. The trap is **2♣** (three different meanings).
+
 ## 26_08_28 (simple gadgets)
 
 - **Reverse Drury** — passed-hand limit raise of 1M is **2♣**. Opener **2♦** = min; **2M** or higher = extras. ([Majors](Majors.md))
