@@ -203,13 +203,36 @@ Reverse = 18+ still applies **outside** 2/1.
 
 ## Passed hand — Reverse Drury
 
-| Auction | Meaning |
-|---------|---------|
-| Pass – 1M – <span style="color:#C62828;font-weight:700">2♣</span> | Limit-type raise. **Alert.** |
-| Opener’s 2♦ | Minimum |
-| Opener’s 2M or higher | Extra / accept |
+You **passed**. Partner opens **1♥ or 1♠** in third or fourth. You have a real raise — the kind that would have invited if you were unpassed. You cannot jump to 3M: in competition that is a preempt, and even at peace a passed-hand jump is not a limit raise.
 
-Unpassed 2♣ is the GF catch-all, not Drury.
+<span style="color:#C62828;font-weight:700">2♣</span> says: **limit raise** in their major (about 10–11, three or four trumps). Alert.
+
+**Reverse** means opener answers the other way around from old Drury:
+
+| Opener | Meaning |
+|--------|---------|
+| **2♦** | Minimum. You can pass 2♦ or correct to 2M. Game is off. |
+| **2M** or higher | Extras. We are going. |
+
+Unpassed **2♣** is the GF catch-all, **not** Drury.
+
+### Example — Drury, opener is minimum
+
+**Dealer North · neither vul**
+
+North `♠ xx  ♥ KJxx  ♦ Axxx  ♣ xxx` — 10, four hearts. Passed (flat).  
+South `♠ AKx  ♥ KQxxx  ♦ xx  ♣ xxx` — 12, five hearts. Opens **1♥** in third.
+
+| West | North | East | South |
+|------|-------|------|-------|
+| | Pass | Pass | 1♥ |
+| Pass | <span style="color:#C62828;font-weight:700">2♣</span> | Pass | 2♦ |
+| Pass | 2♥ | Pass | Pass |
+| Pass | | | |
+
+**Why:** North has a passed-hand limit raise, not a courtesy 2♥. South is a minimum → **2♦**. North signs off in 2♥. 4♥ is the leak.
+
+**Tell the opponents:** Alert 2♣ — “Drury, limit raise.” 2♦ is a minimum if they ask.
 
 ---
 

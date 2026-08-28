@@ -152,21 +152,40 @@ Same South (19). North `♠ Qxxx  ♥ Kxx  ♦ xx  ♣ xxxx` — **8**.
 
 ## <span style="color:#C62828">Two-way NMF</span> (opposite 15–17)
 
-Gavin wrote this opposite a *weak* 1NT rebid. We play it opposite the **strong** one.
+They opened a suit and rebid **1NT**. That is **15–17**, not 12–14. You have already shown a major. Now: stay, invite, or force — and maybe find 5–3 in your major.
 
-After `1m – 1M – 1NT` — **and** after `1♥ – 1♠ – 1NT` (same card; that auction lives in [Majors](Majors.md)):
+**Two-way** means two different bids, not one gadget that does both:
 
-| Call | Meaning | Table |
-|------|---------|--------|
-| Pass | 6–7 | — |
-| <span style="color:#C62828;font-weight:700">2♣</span> | Puppet to 2♦; then invite or weak diamonds | **Alert** |
-| <span style="color:#C62828;font-weight:700">2♦</span> | Artificial GF checkback | **Alert** |
-| 2M | To play (5+ of your major) | — |
-| 2NT | Natural invite | — |
-| 3M | Invite, 6+M | — |
-| 3NT | To play (10+) | — |
+| You mean | Bid |
+|----------|-----|
+| **Quit** (6–7) | **Pass**, or **2M** to play with five of your major |
+| **Invite** (8–9) | <span style="color:#C62828;font-weight:700">2♣</span> — puppet. Opener **must** bid 2♦. Then you show the invite (2M / 2NT / 3m), or **pass 2♦** with weak diamonds. |
+| **Force** (10+) | <span style="color:#C62828;font-weight:700">2♦</span> — artificial game force. Or just bid **3NT**. |
 
-**Kantar is off.** The rest of the 2♣ puppet and the 2♦ GF tree: later.
+Same card after `1♥ – 1♠ – 1NT`. After that auction **2♥** is to play (preference); **2♠** is 2M to play. **2♣ / 2♦** are still the gadget.
+
+Gavin wrote this opposite a *weak* 1NT rebid. We play it opposite the **strong** one. Kantar is off.
+
+### Example — invite, they are 15–17
+
+**Dealer South · neither vul**
+
+South `♠ AJx  ♥ Kxx  ♦ AQxx  ♣ Kxx` — 17, 1♦ then 1NT.  
+North `♠ K10xxx  ♥ Qxx  ♦ xx  ♣ Qxx` — **8**, five spades.
+
+| West | North | East | South |
+|------|-------|------|-------|
+| | | | 1♦ |
+| Pass | 1♠ | Pass | 1NT |
+| Pass | <span style="color:#C62828;font-weight:700">2♣</span> | Pass | 2♦ |
+| Pass | 2♠ | Pass | Pass |
+| Pass | | | |
+
+**Why:** 8 opposite 15–17 is invite, not 3NT. 2♣ then 2♠ is the five-card invite. South is a min and sits. If South had extra spades or a max, he would bid on.
+
+**Tell the opponents:** Alert 2♣ — “two-way: 2♣ invite, 2♦ game force.” 2♦ by opener is the forced puppet, not diamonds.
+
+The rest of the 2♣ puppet and the 2♦ GF tree: later.
 
 ---
 

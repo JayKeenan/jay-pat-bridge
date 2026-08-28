@@ -2,6 +2,12 @@
 
 Newest first. If the top date is newer than your last look, open the files named.
 
+## 26_08_28 (simple gadgets)
+
+- **Reverse Drury** — passed-hand limit raise of 1M is **2♣**. Opener **2♦** = min; **2M** or higher = extras. ([Majors](Majors.md))
+- **Two-way NMF** — after the 15–17 1NT rebid: **2♣** = invite puppet, **2♦** = GF. ([Minors](Minors.md))
+- **Crawling Stayman** — 2♣ with a four-card major; if weak, stop at two. Never pass 2♦. ([Notrump](Notrump.md))
+
 ## 26_08_27 (doubles)
 
 - **Doubles** — ideas, **not law.** Working picture is **Gavin.** **Takeout** = all unbid suits. **Negative / responsive** = the **other major** (minors only when no unbid major is left). **Support double** = three of partner’s major. **Support cue-bid** = limit+ raise (mixed 3M is already off in competition). Penalty = their suit. Ceilings later.

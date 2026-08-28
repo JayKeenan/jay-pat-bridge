@@ -225,6 +225,8 @@ North `♠ xx  ♥ Q10xxxx  ♦ xx  ♣ xxx`.
 
 ## Crawling Stayman
 
+We look for a **4–4 major** and, if we are weak, we **stop at the two-level**. That is the crawl. Garbage Stayman (pass 2♦) is **off** — if they deny a major, you bid 2♥ or 2♠ and play there.
+
 **2♣ is for a four-card major** — weak, invitational, or game. It is **not** the 11–12 balanced invite. That hand bids <span style="color:#C62828;font-weight:700">2♠</span>.
 
 Opener: **2♦** = no 4-card major; **2♥** = 4♥; **2♠** = 4♠, not 4♥.
