@@ -2,6 +2,10 @@
 
 Newest first. If the top date is newer than your last look, open the files named.
 
+## 26_09_06 (weak jump shifts)
+
+- **`1m – 2♥ / 2♠`** = weak jump shift: six, not junk, **too weak for 1M**. Invite and GF with a major start **1M** (then 2-way NMF if they rebid 1NT). Opener may pass or raise.
+
 ## 26_08_28 (cheat sheet)
 
 - **Cheat-Sheet** — Reverse Drury, two-way NMF, crawling Stayman on one page. Ten practice hands. The trap is **2♣** (three different meanings).

@@ -49,6 +49,7 @@ Facing a *minimum*. Shape and controls can move you **one** step later. They do 
 | 2♣ opening | “Strong, artificial” |
 | 2♦ over our 2♣ | “Waiting” |
 | 2♣ / 2♦ inverted | “Limit raise or better” |
+| 2♥ / 2♠ over our 1♣ or 1♦ | “Weak jump shift” |
 | 2♣ / 2♦ after our 15–17 1NT rebid (`1m–1M` or `1♥–1♠`) | “Two-way: 2♣ invite, 2♦ game force” |
 | 2NT over 1M | “Jacoby — forcing raise” |
 | 3♦ over 1M | “Four-card limit raise” |
@@ -56,7 +57,7 @@ Facing a *minimum*. Shape and controls can move you **one** step later. They do 
 | 2♣ after we passed | “Drury” |
 | Splinter | “Shortness, game force” |
 
-Do **not** alert 1♣, **2♦ / 2♥ 2/1** (five-card GF, on the card), or weak twos (including 2♦). **Do** alert 1M–2♣, the **2♣** opening, and **2♦** waiting.
+Do **not** alert 1♣, **2♦ / 2♥ 2/1** (five-card GF, on the card), or weak twos (including 2♦). **Do** alert 1M–2♣, the **2♣** opening, **2♦** waiting, and **1m–2M** (weak jump).
 
 ---
 

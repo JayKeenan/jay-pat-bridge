@@ -58,9 +58,29 @@ No invite. No transfers. A courtesy 6 does not bid 3NT.
 | **1NT** | ~6–10, no 4M |
 | <span style="color:#C62828;font-weight:700">2 of opener’s minor</span> | Inverted, limit+ |
 | **2 of a new minor** | **GF** (2/1) |
+| <span style="color:#C62828;font-weight:700">2♥ / 2♠</span> | **Weak jump shift** — six, not junk, too weak for 1M. **Alert.** |
 | **2NT** | Natural invite, no 4M |
 | **3 of opener’s minor** | Weak raise |
 | **3NT** | To play |
+
+**`1m – 2♥ / 2♠` is a weak jump shift**, not an invite and not a force. Six, not junk, **below** a 1-level response. A 6-count with six hearts bids **1♥**; 8–9 with five or six starts **1M**, then 2-way NMF if they rebid 1NT; 13+ starts **1M** then **2♦**. Opener may **pass** or **raise** (to play).
+
+### Example — weak jump, not 1♥
+
+**Dealer South · neither vul**
+
+South `♠ AJx  ♥ Kx  ♦ AQxxx  ♣ xxx` — 14.  
+North `♠ xx  ♥ KQ109xx  ♦ xx  ♣ xxx` — **4**, six hearts, not junk.
+
+| West | North | East | South |
+|------|-------|------|-------|
+| | | | 1♦ |
+| Pass | <span style="color:#C62828;font-weight:700">2♥</span> | Pass | Pass |
+| Pass | | | |
+
+**Why:** Too weak for 1♥. 2♥ preempts. South has no fit and sits. A 6-count with the same suit would have bid **1♥**.
+
+**Tell the opponents:** Alert 2♥ — “weak jump shift.”
 
 ---
 
@@ -147,6 +167,10 @@ Same South (19). North `♠ Qxxx  ♥ Kxx  ♦ xx  ♣ xxxx` — **8**.
 | 3♣ / 3♦ | Weak / mixed raise | Card |
 
 **2/1 in a new minor is GF** (1♣–2♦, 1♦–2♣).
+
+I'll write the example properly in the next replace - I accidentally started writing example in the thought. Let me fix the Minors insert - I need to add the example after the WJS paragraph, and I may have broken the inverted section.
+
+Let me read Minors around that area.
 
 ---
 
