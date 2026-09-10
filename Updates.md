@@ -2,6 +2,10 @@
 
 Newest first. If the top date is newer than your last look, open the files named.
 
+## 26_09_10 (fourth suit)
+
+- **Fourth suit = game force.** When three suits have been bid, the remaining suit is artificial GF (alert). That is how responder forces after `1m – 1♥ – 1♠` and similar. 2-way NMF stays only after a **1NT rebid**.
+
 ## 26_09_06 (weak jump shifts)
 
 - **`1m – 2♥ / 2♠`** = weak jump shift: six, not junk, **too weak for 1M**. Invite and GF with a major start **1M** (then 2-way NMF if they rebid 1NT). Opener may pass or raise.

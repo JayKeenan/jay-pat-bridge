@@ -96,6 +96,35 @@ North `♠ xx  ♥ KQ109xx  ♦ xx  ♣ xxx` — **4**, six hearts, not junk.
 | Jump raise | Extras, 4+ support |
 | Jump **2NT** | **18–19** balanced |
 
+After `1m – 1♥ – 1♠` (or any auction where **three suits** are out), responder’s **fourth suit is game forcing.** Not 2-way NMF — that is only after a 1NT rebid. Alert. Does not promise the suit.
+
+| Auction | 4th suit |
+|---------|----------|
+| 1♣ – 1♥ – 1♠ | **2♦** |
+| 1♦ – 1♥ – 1♠ | **2♣** |
+| 1♦ – 1♠ – 2♣ | **2♥** |
+
+Then natural. A 6–7 does not bid the fourth suit.
+
+### Example — fourth suit, not NMF
+
+**Dealer South · neither vul**
+
+South `♠ KQxx  ♥ x  ♦ AKxxx  ♣ Axx` — 1♦, then **1♠**.  
+North `♠ xx  ♥ AKxxx  ♦ xx  ♣ KQxx` — 13, five hearts. Wants a force.
+
+| West | North | East | South |
+|------|-------|------|-------|
+| | | | 1♦ |
+| Pass | 1♥ | Pass | 1♠ |
+| Pass | <span style="color:#C62828;font-weight:700">2♣</span> | Pass | 2NT |
+| Pass | 3NT | Pass | Pass |
+| Pass | | | |
+
+**Why:** Three suits are out. **2♣** is fourth suit, GF, not clubs and not the NMF invite. (NMF would have been 2♣ after a **1NT** rebid.) South shows a stopper.
+
+**Tell the opponents:** Alert 2♣ — “game force, fourth suit.”
+
 ### Example — 1NT rebid is 15–17
 
 **Dealer South · neither vul**

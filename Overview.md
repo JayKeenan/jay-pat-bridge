@@ -51,6 +51,7 @@ Facing a *minimum*. Shape and controls can move you **one** step later. They do 
 | 2♣ / 2♦ inverted | “Limit raise or better” |
 | 2♥ / 2♠ over our 1♣ or 1♦ | “Weak jump shift” |
 | 2♣ / 2♦ after our 15–17 1NT rebid (`1m–1M` or `1♥–1♠`) | “Two-way: 2♣ invite, 2♦ game force” |
+| Fourth suit (three suits already bid) | “Game force” |
 | 2NT over 1M | “Jacoby — forcing raise” |
 | 3♦ over 1M | “Four-card limit raise” |
 | 3♥ over 1♠ | “Invitational, long hearts” |
