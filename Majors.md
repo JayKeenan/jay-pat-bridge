@@ -33,7 +33,7 @@ Opener is often 12–14 but may be 19 — he will try if he has extras. **8–10
 | <span style="color:#C62828;font-weight:700">2♣</span> | **GF catch-all.** Clubs, **or** no five-card 2/1 suit. | **Alert** |
 | **2♦** | GF, **5+** diamonds | Card (2/1) |
 | **2♥** over 1♠ | GF, **5+** hearts | Card (2/1) |
-| <span style="color:#C62828;font-weight:700">2NT</span> | Jacoby, GF, 4+ | **Alert** |
+| <span style="color:#C62828;font-weight:700">2NT</span> | Jacoby, GF, **4+**, **no splinter** | **Alert** |
 | **3M** | Mixed ~8–10, **4** trumps | Card (unusual — explain if asked) |
 | <span style="color:#C62828;font-weight:700">3♦</span> | 4-card limit ~11–12 | **Alert** |
 | **3♣** | Natural invite, long clubs | Card |
@@ -43,6 +43,62 @@ Opener is often 12–14 but may be 19 — he will try if he has extras. **8–10
 | **4M** | To play | — |
 
 In competition, mixed 3M is **off** — jump raise is preemptive.
+
+Shortage GF **splinters**. Three-card GF starts **2/1** then raises. **2NT** is the leftover: game, four trumps, no splinter.
+
+---
+
+## <span style="color:#C62828">After 1M – 2NT (Jacoby)</span>
+
+Opener shows **min vs extra** first. Extras show **length**, not shortage. Pat: if I bid **3♣** I am minimum — bid **4M** unless you have a slam. **3NT** is the 15–17 notrump type.
+
+| Opener | Meaning |
+|--------|---------|
+| <span style="color:#C62828;font-weight:700">3♣</span> | **Any minimum.** Shape hidden. |
+| **3♦** | Extras, **four+ diamonds** |
+| **3♥** over 1♠ / **3♠** over 1♥ | Extras, **four+ other major** |
+| **3M** | Extras, **no four-card side** (six of the major, or 18+ 5332) |
+| **3NT** | **15–17 5332** |
+| **4♣** | Extras, **four+ clubs** (3♣ is min) |
+| **4♦** / **4 of the other major** | **Non-min 5–5**, second suit |
+
+After **3♣**, responder **4M** unless a real slam. Opener does not jump to 4M as a min.
+
+### Example — minimum, sign off
+
+**Dealer South · neither vul**
+
+South `♠ AKxxx  ♥ xx  ♦ Kxxx  ♣ xx` — 11, five spades.  
+North `♠ Qxxx  ♥ AKx  ♦ Axx  ♣ Qxx` — 14, four spades.
+
+| West | North | East | South |
+|------|-------|------|-------|
+| | | | 1♠ |
+| Pass | <span style="color:#C62828;font-weight:700">2NT</span> | Pass | <span style="color:#C62828;font-weight:700">3♣</span> |
+| Pass | 4♠ | Pass | Pass |
+| Pass | | | |
+
+**Why:** North is GF with four. South is a min — 3♣, hide the diamonds. North has no slam. 4♠.
+
+**Tell the opponents:** Alert 2NT — “Jacoby, game-forcing raise.” Alert 3♣ — “any minimum.”
+
+### Example — 15–17 5332
+
+**Dealer South · neither vul**
+
+South `♠ AQxxx  ♥ KJx  ♦ Axx  ♣ Kx` — 16, 5332. Too good for 1NT.  
+North `♠ Kxxx  ♥ Axx  ♦ Kxx  ♣ Axx` — 14, four spades.
+
+| West | North | East | South |
+|------|-------|------|-------|
+| | | | 1♠ |
+| Pass | <span style="color:#C62828;font-weight:700">2NT</span> | Pass | 3NT |
+| Pass | 4♠ | Pass | Pass |
+| Pass | | | |
+
+**Why:** South names the 15–17 balanced. North places 4♠. 3NT here is **not** to play.
+
+**Tell the opponents:** Alert 2NT. 3NT is 15–17 balanced if they ask.
 
 ---
 

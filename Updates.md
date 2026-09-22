@@ -2,6 +2,10 @@
 
 Newest first. If the top date is newer than your last look, open the files named.
 
+## 26_09_22 (Jacoby rebids)
+
+- After **1M – 2NT** (Jacoby: GF, four, no splinter): opener **3♣** = any minimum (then responder **4M** unless slam). **3♦ / 3 of the other major** = extras with four+ that suit. **3M** = extras, no four-card side. **3NT** = 15–17 5332. **4♣** = extras four+ clubs. **4♦ / 4 other major** = non-min 5–5. ([Majors](Majors.md))
+
 ## 26_09_10 (fourth suit)
 
 - **Fourth suit = game force.** When three suits have been bid, the remaining suit is artificial GF (alert). That is how responder forces after `1m – 1♥ – 1♠` and similar. 2-way NMF stays only after a **1NT rebid**.
